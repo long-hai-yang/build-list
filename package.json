@@ -1,0 +1,17 @@
+{
+  "name": "build-list",
+  "version": "0.0.2",
+  "description": "打包列表",
+  "main": "index.js",
+  "bin": {
+    "build-list": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "995855294@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
+}
